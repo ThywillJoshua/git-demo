@@ -1,3 +1,3 @@
 # Git & Github course
 
-Awesome is the second branch 2
+Awesome is the second branch 3
