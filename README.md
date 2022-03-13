@@ -1,3 +1,3 @@
-#Git & Github course
+# Git & Github course
 
 Quickly learn git and github
