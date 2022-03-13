@@ -1,3 +1,3 @@
 # Git & Github course
 
-Master creating a conflict
+Master creating a conflict second
