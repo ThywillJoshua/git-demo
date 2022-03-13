@@ -1,3 +1,3 @@
 # Git & Github course
 
-Quickly learn git and github
+Awesome is the second branch
